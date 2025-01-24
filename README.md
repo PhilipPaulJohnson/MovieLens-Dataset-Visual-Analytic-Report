@@ -4,3 +4,6 @@ The MovieLens dataset has been analyzed to present information and insights abou
 
 # TECHNOLOGIES
 -Data Analysis -Data Visualization -Microsoft Power BI
+
+![BI1](https://github.com/user-attachments/assets/2997ae80-5d2c-4584-9e14-9b895157076c)
+![BI2](https://github.com/user-attachments/assets/12765d6f-baef-4dae-941e-f566d2eaf58a)
